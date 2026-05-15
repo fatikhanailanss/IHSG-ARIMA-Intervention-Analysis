@@ -4,7 +4,7 @@
 Project ini berfokus pada pemodelan data deret waktu Indeks Harga Saham Gabungan (IHSG) menggunakan pendekatan **ARIMA** dan **Model Intervensi**. Analisis ini bertujuan untuk memodelkan pola data serta melihat dampak dari kejadian eksternal (intervensi) terhadap fluktuasi pasar saham Indonesia.
 
 ## 🛠️ Tech Stack & Tools
-- **Language:** R
+- **Language:** R 
 - **Library:** `tseries`, `forecast`, `TSA`, `ggplot2`
 - **Documentation:** RMarkdown (HTML)
 
