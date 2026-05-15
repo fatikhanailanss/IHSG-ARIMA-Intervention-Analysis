@@ -18,8 +18,8 @@ Project ini berfokus pada pemodelan data deret waktu Indeks Harga Saham Gabungan
 
 ## 🚀 Results
 - Model terbaik yang diperoleh: **ARIMA(p,d,q) + Intervention Model**.
-- Akurasi Model: MAPE sebesar **X.XX%** (Isi sesuai hasil laprak lo).
-- Kesimpulan: Intervensi [Sebutkan Kejadiannya] memberikan dampak yang signifikan terhadap [Sebutkan pengaruhnya].
+- Akurasi Model: MAPE sebesar sebesar 0.74% atau setara dengan tingkat akurasi 99,26%.
+- Kesimpulan: Intervensi Pengesahan RUU TNI (20 Maret 2025) tidak memberikan dampak yang signifikan terhadap pergerakan IHSG, karena model tanpa intervensi memiliki nilai AIC dan BIC yang lebih kecil.
 
 ## 📂 Project Files
 - `index.html`: Laporan lengkap interaktif (Rendered RMarkdown).
